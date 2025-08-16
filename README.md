@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Saya sedang dalam perjalanan belajar menjadi seorang Data Scientist, dengan fokus pada pengembangan model Machine Learning dan bercita-cita menjadi seorang AI Engineer.<br><br>⚙️ Saya juga memperdalam pemahaman tentang berbagai tools MLOps, mulai dari kebutuhan data analysis, eksperimen model, hingga proses deployment model menggunakan MLflow.</p>
+<p align="left">🎓 Saya sedang dalam perjalanan belajar menjadi seorang Data Scientist/AI Engineer, dengan fokus pada pengembangan model Machine Learning.<br><br>⚙️ Saya juga memperdalam pemahaman tentang berbagai tools MLOps, mulai dari kebutuhan data analysis, eksperimen model, hingga proses deployment model menggunakan MLflow.</p>
 
 ###
 
